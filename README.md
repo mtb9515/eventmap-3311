@@ -1,3 +1,8 @@
+NEEDS UPDATING FOR PORTFOLIO
+TODO:
+UPDATE README WITH PICTURES AND EXPLAIN PROJECT
+UPDATE FIREBASE SERVICE ACCOUNT FOR FORK
+
 UTA Event Mapper
 
 The UTA Event Mapper is a web-based application designed to help users find and map out events occurring on the University of Texas at Arlington (UTA) campus.
